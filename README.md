@@ -20,7 +20,6 @@ b. If no one can create a straight line with their own mark and all the position
 
 IMPLEMENTATION PLAN:
 The implementation workflow for this project is as follows:
-![Alt text](Python_flowchart.png)
 
 First the game will start with empty board.
 
@@ -41,8 +40,8 @@ Its goal is to minimize the maximum loss i.e. minimize the worst case scenario.
 MCTS Algorithm:
 youtube demo:https://www.youtube.com/watch?v=HXlNpAXwRhM&ab_channel=saiswamy
 
-HOW TO PLAY 
-python Reinforcementsearchtree,py 
+HOW TO PLAY :
+python Reinforcementsearchtree.py 
 
 References:
 https://www.youtube.com/watch?v=UXW2yZndl7U&t=105s&ab_channel=JohnLevine
